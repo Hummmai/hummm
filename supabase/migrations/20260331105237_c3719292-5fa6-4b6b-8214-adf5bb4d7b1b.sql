@@ -1,0 +1,1 @@
+ALTER TABLE public.negotiate_requests ADD COLUMN display_name text DEFAULT NULL;

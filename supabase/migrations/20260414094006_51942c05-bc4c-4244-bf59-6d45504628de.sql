@@ -1,0 +1,1 @@
+ALTER TABLE public.landlord_properties ADD COLUMN humm_fair_value integer NULL;

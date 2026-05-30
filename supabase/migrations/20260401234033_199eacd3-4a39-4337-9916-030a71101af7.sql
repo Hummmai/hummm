@@ -1,0 +1,1 @@
+ALTER TABLE public.uk_estate_agents ADD CONSTRAINT uk_estate_agents_agent_name_key UNIQUE (agent_name);

@@ -1,0 +1,1 @@
+ALTER TABLE public.saved_audits ADD COLUMN IF NOT EXISTS agent_email text DEFAULT NULL;

@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /compliance
+Disallow: /yield
+Disallow: /tenants
+Disallow: /rights
+Disallow: /budget
+Disallow: /auth
+Disallow: /seller/valuation
+Disallow: /seller/offers
+Disallow: /seller/listing-prep
+Disallow: /saved-searches
+Disallow: /viewings
+Disallow: /my-dashboard
+Disallow: /negotiation-room
+Disallow: /owner-access
+Disallow: /scrape-agents
+
+Sitemap: https://humm.pro/sitemap.xml

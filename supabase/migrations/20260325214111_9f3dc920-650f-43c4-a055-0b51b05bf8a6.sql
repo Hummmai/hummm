@@ -1,0 +1,1 @@
+DROP POLICY "Anyone can read valuations by id" ON public.ai_valuations;

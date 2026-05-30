@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS postcode text; ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS interest text;
